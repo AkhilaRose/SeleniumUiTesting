@@ -3,11 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.sample.OrangeHrmTestNGLoginTest">
+      <class name="com.pages.HomePageTest">
         <methods>
-          <include name="dashboardVerificationTest"/>
+          <include name="claenup"/>
+          <include name="setUp"/>
+          <include name="logutButtonDisplayTest"/>
         </methods>
-      </class> <!-- com.sample.OrangeHrmTestNGLoginTest -->
+      </class> <!-- com.pages.HomePageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

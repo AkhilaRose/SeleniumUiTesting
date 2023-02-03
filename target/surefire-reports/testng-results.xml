@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="10312" started-at="2023-02-03T20:37:50Z" finished-at="2023-02-03T20:38:01Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="10312" started-at="2023-02-03T20:37:50Z" finished-at="2023-02-03T20:38:01Z">
+      <class name="com.pages.LoginPageTest">
+        <test-method status="PASS" signature="loginHeadingDisplayTest()[pri:0, instance:com.pages.LoginPageTest@7921b0a2]" name="loginHeadingDisplayTest" duration-ms="10293" started-at="2023-02-03T20:37:50Z" finished-at="2023-02-03T20:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginHeadingDisplayTest -->
+      </class> <!-- com.pages.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

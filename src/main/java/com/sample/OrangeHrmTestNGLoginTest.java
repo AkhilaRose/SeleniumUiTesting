@@ -24,7 +24,7 @@ public class OrangeHrmTestNGLoginTest {
 		WebElement Dashboardheading= driver.findElement(By.xpath("//h6[text()='Dashboard']"));
 		boolean heading = Dashboardheading.isDisplayed();
 		System.out.println(heading);
-	Assert.assertEquals(heading, false);
+	Assert.assertEquals(heading, true);
 	}
 	
 

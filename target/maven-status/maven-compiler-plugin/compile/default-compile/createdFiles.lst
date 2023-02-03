@@ -1,0 +1,8 @@
+com\pages\HomePage.class
+com\configuration\Base.class
+com\sample\BrowserLoadingTest.class
+com\sample\BrosrLoadTest.class
+com\sample\OrangeHrmLoginTest.class
+com\pages\LoginPage.class
+com\sample\OrangeHrmTestNGLoginTest.class
+com\sample\PrintHelloWorld.class
